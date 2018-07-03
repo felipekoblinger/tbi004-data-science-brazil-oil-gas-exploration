@@ -1,5 +1,6 @@
 # Poços de Petróleo e Gás no Brasil (até janeiro/2018)
-Este repositório refere-se ao projeto de Data Science utilizando Pandas (Python)
+Este repositório refere-se ao projeto de Data Science utilizando Pandas (Python).  
+O objetivo é analisar as atividades dos poços de petróleo e gás ao longo das décadas no Brasil.
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos  
 **Curso**: TBI004 - Projeto de Banco de Dados Não Estruturados (1º semestre de 2018)  
