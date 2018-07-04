@@ -14,7 +14,8 @@ O objetivo é analisar as atividades dos poços de petróleo e gás ao longo das
 **Aluno**: Felipe Koblinger  
 **Professor**: Me. Fernando Masanori Ashikaga
 
-**Dataset**: https://www.kaggle.com/dtommasini/oil-gas-wells-brazil
+**Dataset** (até janeiro/2018): https://www.kaggle.com/dtommasini/oil-gas-wells-brazil  
+**Dataset** (até junho/2018): http://www.anp.gov.br/exploracao-e-producao-de-oleo-e-gas/dados-tecnicos/acesso-aos-dados-tecnicos - http://www.anp.gov.br/images/Artigos/Producaopoco/tabela_de_pocos_junho_2018.xlsx
 
 ## Visualizar Projeto
 Para realização e visualização, foi utilizado o Jupyter Notebook, contendo 2 versões para exibição:
