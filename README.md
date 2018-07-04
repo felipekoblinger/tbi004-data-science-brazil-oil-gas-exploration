@@ -1,4 +1,6 @@
 # Poços de Petróleo e Gás no Brasil (até janeiro/2018)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/felipekoblinger/tbi004-data-science-brazil-oil-gas-exploration/master?filepath=Po%C3%A7os%20de%20Petr%C3%B3leo%20e%20G%C3%A1s%20no%20Brasil%20(at%C3%A9%20janeiro-2018).ipynb)
+
 Este repositório refere-se ao projeto de Data Science utilizando Pandas (Python).  
 O objetivo é analisar as atividades dos poços de petróleo e gás ao longo das décadas no Brasil.
 
