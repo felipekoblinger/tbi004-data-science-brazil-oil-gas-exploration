@@ -4,6 +4,7 @@ channels:
 dependencies:
   - matplotlib
   - basemap
+  - basemap-data-hires
   - pip:
     - seaborn
     - pandas
